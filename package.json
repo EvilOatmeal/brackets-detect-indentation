@@ -1,0 +1,22 @@
+{
+    "name": "se.eviloatmeal.brackets-detect-indentation",
+    "title": "Detect Indentation",
+    "version": "0.0.1",
+    "description": "Detects the indentation used in the current document and sets the editor settings accordingly.",
+    "homepage": "https://github.com/EvilOatmeal/brackets-detect-indentation",
+    "author": "Kenneth Sundqvist eviloatmeal@gmail.com (http://eviloatmeal.se)",
+    "license": "MIT",
+    "categories": "editing",
+    "keywords": [
+        "indentation",
+        "detect",
+        "automatic"
+    ],
+    "files": [
+        "main.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">=0.22.0"
+    }
+}
